@@ -10,7 +10,7 @@ Support ttf, woff, woff2, otf, svg font, eot import and edit online.
 [English Version](https://kekee000.github.io/fonteditor/index-en.html)
 
 
-![Fonteditor](./fonteditor.jpg)
+![iconeditor](./fonteditor.jpg)
 
 ### Dev:
 
