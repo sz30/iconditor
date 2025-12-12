@@ -1,9 +1,9 @@
-Fonteditor Online Font Editor
+Iconeditor Online Editor
 ==========
 
 [English](./README.md) | [中文](./README.zh-CN.md)
 
-Use `Fonteditor` to edit, transform, preview fonts.
+Use `iconeditor` to edit, transform, preview fonts.
 
 Support ttf, woff, woff2, otf, svg font, eot import and edit online.
 
